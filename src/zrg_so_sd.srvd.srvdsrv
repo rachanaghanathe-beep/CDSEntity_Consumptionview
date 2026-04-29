@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition - Sales order'
+define service ZRG_SO_SD {
+  expose ZC_RG_SALES_ANA as SalesSet;
+}
